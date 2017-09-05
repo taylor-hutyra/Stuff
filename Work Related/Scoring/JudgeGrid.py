@@ -11,6 +11,7 @@ for i,x in enumerate(COLOR):
         COLOR[i] = "purple"
 
 
+
 def button_click(i,j):
     if self.cget('bg') is "grey":
         self.button.configure(bg="purple")
