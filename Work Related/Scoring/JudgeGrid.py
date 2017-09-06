@@ -1,4 +1,5 @@
 from tkinter import *
+from random import random
 
 color="purple"
 default_color="white"
@@ -29,9 +30,13 @@ def click(button,x,y):
         button_list[x*ROWS+y] = default_color
         button["bg"] = default_color
         button["activebackground"] = default_color
-    else:
+    elif button_list[x*ROWS+y] is default_color:
         button_list[x*ROWS+y] = color
         button["bg"] = color
         button["activebackground"] = color
+    if random() < 0.14:
+        button_list[x*ROWS+y] = "grey"
+        button["bg"] = "grey"
+        button["activebackground"] = "grey"
 w = main()
 mainloop()
