@@ -16,7 +16,7 @@ def main():
         Grid.rowconfigure(frame, x, weight=1)
         for y in range(COLUMNS):
             Grid.columnconfigure(frame, y, weight=1)
-            b = Button(frame, bg=default_color, activebackground=default_color)
+            b = Button(frame,text = str(x)+str(y), bg=default_color, activebackground=default_color)
             b.grid(column=y, row=x)
             # creating the callback with "b" as the default parameter bellow "freezes" its value pointing
             # to the button created in each run of the loop.
