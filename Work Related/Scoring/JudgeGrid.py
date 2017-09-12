@@ -22,8 +22,6 @@ def main():
             Grid.columnconfigure(frame, y, weight=1)
             b = Button(frame,text = str(x)+str(y) + '- NEEDS ' + str(NUMJUDGES), bg=default_color, activebackground=default_color)
             b.grid(column=y, row=x)
-            # creating the callback with "b" as the default parameter bellow "freezes" its value pointing
-            # to the button created in each run of the loop.
             b["command"] = lambda b=b, x=x, y=y: click(b, x, y)
             b.grid(row=x, column=y, sticky=N+S+E+W)
     Grid.columnconfigure(frame, COLUMNS, weight=1)
