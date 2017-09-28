@@ -1,5 +1,7 @@
 from tkinter import *
 from random import random
+import pandas as pd
+
 
 color="purple"
 default_color="white"
@@ -48,8 +50,6 @@ def click(button,x,y):
         button["bg"] = "grey"
         button["activebackground"] = "grey"
         button["text"] = str(x)+str(y)+ '- DONE'
-    print(button_list)
-
 def update():
     global color
     color = 'red'
