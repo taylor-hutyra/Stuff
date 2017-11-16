@@ -1,0 +1,101 @@
+,NAME,COUNTS,WORKLOAD,SUBFIELD,CATEGORY,INSTITUTION
+0,"McFarland, Anne",1.0,2.0,Environmental Studies - Soil Sciences,Environmental Science,Tarleton State University
+1,"Joiner, Sue",2.0,2.0,Management,Business & Computer Information Systems,Tarleton State University
+2,"Shao, Chris",2.0,1.0,Marketing,Business & Computer Information Systems,Tarleton State University
+3,"Ryou, Myoung-gwi",2.0,3.0,Biomedical Sciences,Life Science,Tarleton State University
+4,"Schenewark, Jarrod",1.0,1.0,"Kinesiology, Sport Sciences",Education,Tarleton State University
+5,"Fiaud, Vanessa",1.0,3.0,"Kinesiology, Sport Sciences",Humanities or Social Science,West Texas A&M University
+6,"Cheriyath, Venu",3.0,4.0,Biomedical Sciences,Life Science,Texas A&M University - Commerce
+7,"Bakhtavoryan, Rafael",1.0,2.0,Agriculture,Agriculture,Texas A&M University - Commerce
+8,"Coskun, Hasan",4.0,4.0,Math & statistics,Mathematics,Texas A&M University - Commerce
+9,"Cooper, Caitlyn",3.0,4.0,"Environmental Studies - Plant sciences, forestry",Agriculture,Texas A&M University - College Station
+10,"Jones, Trinette",1.0,1.0,"Animal Science, Poultry Science",Agriculture,Tarleton State University
+11,"Kunta, Madhurababu",3.0,4.0,Biology,Agriculture,Texas A&M University - Kingsville
+12,"Sikorski, Angela",3.0,5.0,Psychology,Humanities or Social Science,Texas A&M University - Texarkana
+13,"Venkataraman, Kartik",6.0,4.0,"Engineering - Environmental, Biological, Agricultural",Environmental Science,Tarleton State University
+14,"Goderya, Shaukat",2.0,3.0,Physics,Physical Science,Tarleton State University
+15,"Blevins-McNaughton, Jennifer",2.0,3.0,"Kinesiology, Sport Sciences",Life Science,Tarleton State University
+16,"Chiu, Weihsueh",3.0,4.0,"Health - Public, Human",Life Science,Texas A&M University - College Station
+17,"Murray, Darrel",1.0,2.0,"Environmental Studies - Plant Sciences, Forestry",Life Science,Tarleton State University
+18,"Guay, Kimberly",2.0,1.0,"Animal Science, Poultry Science",Agriculture,Tarleton State University
+19,"Quaid, Brandon",3.0,4.0,Biology,Life Science,Texas A&M University - Texarkana
+20,"Kafley, Hemanta",1.0,3.0,Wildlife & fisheries management science,Environmental Science,Tarleton State University
+21,"Crawford, Jesse",2.0,4.0,Math & statistics,Mathematics,Tarleton State University
+22,"Hibbs, Mike",1.0,4.0,Physics,Physical Science,Tarleton State University
+23,"Page, Robert",3.0,4.0,Biology,Life Science,Texas A&M University - San Antonio
+24,"Wise de Valdez, Megan",4.0,4.0,Entomology,Life Science,Texas A&M University - San Antonio
+25,"McCuistion, Kim",3.0,4.0,"Animal Science, Poultry Science",Agriculture,Texas A&M University - Kingsville
+26,"Smith, Brandon",3.0,1.0,"Animal Science, Poultry Science",Agriculture,Tarleton State University
+27,"Howell, Julie",3.0,3.0,Education,Education,Tarleton State University
+28,"Bernhardt, Vipa",2.0,2.0,"Kinesiology, Sport Sciences",Life Science,Texas A&M University - Commerce
+29,"Tietjen-Smith, Tara",3.0,4.0,"Health - Public, Human",Humanities or Social Science,Texas A&M University - Commerce
+30,"Shaw, Joanna",2.0,1.0,"Human Resource Management, Development",Business & Computer Information Systems,Tarleton State University
+31,"Mehrubeoglu, Mehrube",4.0,4.0,Engineering - Electrical,Engineering & Computer Science,Texas A&M University - Corpus Christi
+32,"Lancaster, Jennifer",3.0,3.0,"Kinesiology, Sport Sciences",Life Science,Tarleton State University
+33,"Tronicek, Zdenek",3.0,3.0,"Computer Science, Engineering, Systems",Engineering & Computer Science,Tarleton State University
+34,"Herrmann, Kristin",2.0,4.0,Biology,Life Science,Tarleton State University
+35,"Shakir, Safwat",4.0,4.0,"Engineering - Environmental, Biological, Agricultural",Environmental Science,Prairie View A&M University
+36,"Musa, Sarhan",3.0,4.0,"Computer Science, Engineering, Systems",Engineering & Computer Science,Prairie View A&M University
+37,"Ampim, Peter",2.0,3.0,"Environmental Studies - Plant Sciences, Forestry",Agriculture,Prairie View A&M University
+38,"Moreira, Rosana",4.0,4.0,"Engineering - Environmental, Biological, Agricultural",Agriculture,Texas A&M University - College Station
+39,"Albert, Lynal",4.0,4.0,"Engineering - Environmental, Biological, Agricultural",Mathematics,Tarleton State University
+40,"Poenisch, Ken",1.0,4.0,Agriculture,Agriculture,Texas A&M University - College Station
+41,"Srinivasan, Rajani",2.0,2.0,Chemistry,Physical Science,Tarleton State University
+42,,3.0,,,,
+43,,4.0,,,,
+44,,2.0,,,,
+45,,4.0,,,,
+46,,3.0,,,,
+47,,1.0,,,,
+48,,,,,,
+49,"Agapie, Mircea",3.0,2.0,"Computer Science, Engineering, Systems",Engineering & Computer Science,Tarleton State University
+50,"Chraibi, Victoria",4.0,4.0,Biology,Environmental Science,Tarleton State University
+51,"Youngblood, Yolander",1.0,2.0,"Environmental Studies - Plant Sciences, Forestry",Life Science,Prairie View A&M University
+52,"Awal, Ripendra",4.0,4.0,"Geosciences, Geology, Hydrology, Geophysics",Agriculture,Prairie View A&M University
+53,"Al-Tameemi, Weam",3.0,4.0,Math & statistics,Mathematics,Texas A&M International University
+54,"Hilburn, Andy",1.0,2.0,"Geography, GIS",Humanities or Social Science,Texas A&M International University
+55,"Barber-Freeman, Pamela",,4.0,Education,Education,Prairie View A&M University
+56,"Blackburn, Angelique",,0.0,Psychology,Humanities or Social Science,Texas A&M International University
+57,"Burdenski, Thomas",,0.0,Counseling,Humanities or Social Science,Tarleton State University
+58,"Burzynski, Joseph",,0.0,"English, Literature",Humanities or Social Science,Texas A&M University - Texarkana
+59,"Copeland, Christopher",,0.0,"Criminal Justice, Criminology, Forensics",Humanities or Social Science,Tarleton State University
+60,"Huang, Arthur",,3.0,Engineering - Civil,Engineering & Computer Science,Tarleton State University
+61,"Nagy, Del",,2.0,Management Information Systems,Business & Computer Information Systems,Tarleton State University
+62,"Dean, John",,0.0,"English, Literature",Humanities or Social Science,Texas A&M International University
+63,"Downey, Sharece",,1.0,"Criminal Justice, Criminology, Forensics",Humanities or Social Science,Tarleton State University
+64,"Fan, Huajun",,4.0,Chemistry,Physical Science,Prairie View A&M University
+65,"Faulkenberry, Tom",,0.0,Psychology,Humanities or Social Science,Tarleton State University
+66,"Ferrales, Deneece",,0.0,Social Work,Humanities or Social Science,Tarleton State University
+67,"Goen, Karley",,4.0,"Communication, Media",Humanities or Social Science,Tarleton State University
+68,"Greem, Gaynell",,1.0,"Human Resource Management, Development",Education,Texas A&M University - Texarkana
+69,"Greene, Thomas",,0.0,History,Humanities or Social Science,Texas A&M University - San Antonio
+70,"Hallgarth, Matthew",,1.0,Political Science,Humanities or Social Science,Tarleton State University
+71,"Higgins, Christopher",,4.0,Biology,Life Science,Tarleton State University
+72,"Hill, Edward",,3.0,Education,Education,Texas A&M University - Central Texas
+73,"Huber, Tonya",,0.0,Education,Education,Texas A&M International University
+74,"James, Jaylen",,0.0,Engineering - Other,Engineering & Computer Science,Texas A&M University - College Station
+75,"Jiang, Mei",,4.0,Education,Education,Texas A&M University - Commerce
+76,"Jones, Jerry",,0.0,History,Humanities or Social Science,Texas A&M University - Central Texas
+77,"Kattes, David",,0.0,Entomology,Agriculture,Tarleton State University
+78,"Khan, Izhar",,4.0,Biology,Life Science,Texas A&M University - Commerce
+79,"Kilburn, John",,0.0,Organizational behavior,Humanities or Social Science,Texas A&M International University
+80,"Lewis, Sally",,1.0,Biomedical Sciences,Life Science,Tarleton State University
+81,"Merwin, Steven",,2.0,"Computer Science, Engineering, Systems",Mathematics,Tarleton State University
+82,"Moreno, Miguel",,4.0,Psychology,Humanities or Social Science,Texas A&M University - Corpus Christi
+83,"Muir, James",,0.0,Wildlife & fisheries management science,Agriculture,Tarleton State University
+84,"Murphy, Walter",,5.0,Psychology,Humanities or Social Science,Texas A&M University - Central Texas
+85,"Osei, Edward",,1.0,Agriculture,Agriculture,Tarleton State University
+86,"Pjesky, Rex",,3.0,Management Information Systems,Humanities or Social Science,West Texas A&M University
+87,"Rauf, Fawad",,4.0,Engineering - Electrical,Business & Computer Information Systems,Texas A&M University - Texarkana
+88,"Robertson, Stephanie",,0.0,Psychology,Humanities or Social Science,Tarleton State University
+89,"Ross, Corinna",,4.0,Biology,Life Science,Texas A&M University - San Antonio
+90,"Rugari, Susan",,2.0,Nursing,Life Science,Tarleton State University
+91,"Saatci, Yesim",,4.0,Counseling,Education,Texas A&M University - Central Texas
+92,"Schroeder, Jennifer",,4.0,Psychology,Humanities or Social Science,Texas A&M University - Commerce
+93,"Schulze, Anja",,,Biology,Life Science,Texas A&M University - Galveston
+94,"Tallach, Tom",,0.0,"Kinesiology, Sport Sciences",Education,Tarleton State University
+95,"Vasquez, Desi",,0.0,Psychology,Humanities or Social Science,Texas A&M International University
+96,"Weitman, Catheryn",,4.0,Education,Education,Texas A&M International University
+97,"Winton, Mary",,1.0,Nursing,Life Science,Tarleton State University
+98,"Yelderman, Logan",,5.0,Psychology,Humanities or Social Science,Prairie View A&M University
+99,"Zawisza, Thomas",,0.0,"Criminal Justice, Criminology, Forensics",Humanities or Social Science,Texas A&M International University
